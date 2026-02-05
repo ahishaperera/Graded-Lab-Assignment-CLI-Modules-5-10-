@@ -1,1 +1,10 @@
+Error: Provide exactly one argument.
 
+File analysis:
+ 1  5 20 test.txt
+
+Directory analysis:
+Total number of files:
+2
+Number of .txt files:
+1
