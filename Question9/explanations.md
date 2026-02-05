@@ -1,4 +1,4 @@
-### cd ~/Modules5-10/Question9	
+### cd Question9	
 Navigate to Question 9 folder.
 
 ### nano zombie_prevention.c	
