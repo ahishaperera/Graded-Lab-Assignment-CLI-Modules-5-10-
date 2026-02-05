@@ -1,1 +1,15 @@
 
+cd ~
+mkdir Question3
+cd Question3
+nano marks.txt
+nano validate_results.sh
+chmod +x validate_results.sh
+
+./validate_results.sh
+Passed all subjects: 101 Alice
+Failed in exactly one subject: 102 Bob
+Passed all subjects: 103 Charlie
+Failed in exactly one subject: 104 Diana
+Number of students failed in exactly one subject: 2
+Number of students passed all subjects: 2
