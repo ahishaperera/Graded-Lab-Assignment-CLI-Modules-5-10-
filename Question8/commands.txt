@@ -1,1 +1,15 @@
+ahishaperera@DESKTOP-K69H7OE:~$ cd ~
+ahishaperera@DESKTOP-K69H7OE:~$ mkdir Question8
+ahishaperera@DESKTOP-K69H7OE:~$ cd Question8
+ahishaperera@DESKTOP-K69H7OE:~/Question8$ mkdir testdir
+ahishaperera@DESKTOP-K69H7OE:~/Question8$ cd testdir
+ahishaperera@DESKTOP-K69H7OE:~/Question8/testdir$ echo "File 1" > file1.txt
+ahishaperera@DESKTOP-K69H7OE:~/Question8/testdir$ echo "File 2" > file2.txt
+ahishaperera@DESKTOP-K69H7OE:~/Question8/testdir$ echo "File 3" > file3.txt
+ahishaperera@DESKTOP-K69H7OE:~/Question8/testdir$ cd ..
+ahishaperera@DESKTOP-K69H7OE:~/Question8$ nano bg_move.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question8$ chmod +x bg_move.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question8$ ./bg_move.sh testdir
+ahishaperera@DESKTOP-K69H7OE:~/Question8$ ls testdir/backup
+
 
