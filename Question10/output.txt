@@ -1,1 +1,2 @@
-
+Parent received SIGTERM (15). Cleaning up...
+Parent received SIGINT (2). Exiting gracefully.
