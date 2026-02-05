@@ -1,1 +1,7 @@
+ahishaperera@DESKTOP-K69H7OE:~$ cd ~
+ahishaperera@DESKTOP-K69H7OE:~$ mkdir Question10
+ahishaperera@DESKTOP-K69H7OE:~$ cd Question10
+ahishaperera@DESKTOP-K69H7OE:~/Question10$ nano signal_handling.c
+ahishaperera@DESKTOP-K69H7OE:~/Question10$ gcc signal_handling.c -o signal_handling
+ahishaperera@DESKTOP-K69H7OE:~/Question10$ ./signal_handling
 
