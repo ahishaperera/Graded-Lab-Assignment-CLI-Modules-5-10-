@@ -7,11 +7,6 @@ chmod +x emailcleaner.sh
 ./emailcleaner.sh
 
 cat valid.txt
-alice123@example.com
-bob@example.com
-eve@site.com
-
 cat invalid.txt
-invalid-email
-john@domain.org
+
 
