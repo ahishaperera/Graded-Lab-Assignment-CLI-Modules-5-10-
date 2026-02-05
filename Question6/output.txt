@@ -1,1 +1,7 @@
 
+scripting
+Longest word displayed above
+text
+Shortest word displayed above
+Average word length: 6.6
+Total unique words: 8
