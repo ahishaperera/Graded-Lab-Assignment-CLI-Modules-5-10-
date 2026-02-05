@@ -1,1 +1,10 @@
 
+file1.txt  file2.txt
+file1.txt  file3.txt
+
+Files only in dirA:
+file2.txt
+Files only in dirB:
+file3.txt
+Common files comparison:
+file1.txt: identical
