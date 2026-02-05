@@ -1,1 +1,9 @@
 
+ahishaperera@DESKTOP-K69H7OE:~$ cd ~
+ahishaperera@DESKTOP-K69H7OE:~$ mkdir Question6
+ahishaperera@DESKTOP-K69H7OE:~$ cd Question6
+ahishaperera@DESKTOP-K69H7OE:~/Question6$ nano input.txt
+ahishaperera@DESKTOP-K69H7OE:~/Question6$ nano metrics.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question6$ chmod +x metrics.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question6$ ./metrics.sh
+
