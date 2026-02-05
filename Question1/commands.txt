@@ -1,1 +1,10 @@
-
+cd ~
+mkdir Question1
+cd Question1
+touch analyze.sh
+nano analyze.sh
+chmod +x analyze.sh
+./analyze.sh
+echo "This is a test file" > test.txt
+./analyze.sh test.txt
+./analyze.sh .
