@@ -1,5 +1,5 @@
 
-### cd ~/Modules5-10/Question8
+### cd Question8
 Navigate to Question 8 directory.
 
 ### mkdir testdir	
