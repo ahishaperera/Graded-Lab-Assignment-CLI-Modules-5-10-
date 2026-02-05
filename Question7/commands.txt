@@ -1,1 +1,16 @@
 
+ahishaperera@DESKTOP-K69H7OE:~$ cd ~
+ahishaperera@DESKTOP-K69H7OE:~$ mkdir Question7
+ahishaperera@DESKTOP-K69H7OE:~$ cd Question7
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ nano input.txt
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ nano patterns.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ chmod +x patterns.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ ./patterns.sh
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ cat vowels.txt
+
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ cat consonants.txt
+
+ahishaperera@DESKTOP-K69H7OE:~/Question7$ cat mixed.txt
+
+
+
