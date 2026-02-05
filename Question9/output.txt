@@ -1,1 +1,10 @@
-
+Child PID: 6568 started
+Child PID: 6569 started
+Child PID: 6570 started
+Child PID: 6568 exiting
+Child PID: 6570 exiting
+Child PID: 6569 exiting
+Parent cleaned up child PID: 6568
+Parent cleaned up child PID: 6569
+Parent cleaned up child PID: 6570
+All children cleaned up. Parent exiting.
