@@ -1,4 +1,4 @@
-### Command: cd ~        mkdir -p Modules5-10/Question2       cd Modules5-10/Question2
+### Command: cd ~        mkdir Question2       cd Question2
 Created and navigated into the Question2 directory to store the log analysis script.
 
 ### Command: nano sample.log
