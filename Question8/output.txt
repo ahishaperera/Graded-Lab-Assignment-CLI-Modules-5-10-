@@ -1,1 +1,9 @@
+Moving testdir/file1.txt in background, PID: 8055
+Moving testdir/file2.txt in background, PID: 8056
+Moving testdir/file3.txt in background, PID: 8057
+All files have been moved.
+
+file1.txt  file2.txt  file3.txt
+
+
 
