@@ -1,1 +1,27 @@
+cd ~
+mkdir Question5
+cd Question5
+mkdir dirA dirB
+echo "Hello World" >dirA/file1.txt
+cho "Hello Linux" >dirA/file2.txt
+echo "Hello World" >dirB/file1.txt
+echo "Another file" >dirB/file3.txt
+
+ls dirA
+file1.txt  file2.txt
+
+ls dirB
+file1.txt  file3.txt
+
+nano sync.sh
+chmod +x sync.sh
+./sync.sh dirA dirB
+
+Files only in dirA:
+file2.txt
+Files only in dirB:
+file3.txt
+Common files comparison:
+file1.txt: identical
+
 
