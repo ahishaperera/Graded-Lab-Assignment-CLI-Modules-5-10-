@@ -27,4 +27,4 @@ Removes the first field (the length number), leaving only the word.
 Calculates the average word length.
 
 ### Command: wc -l
-Counts lines → number of unique words.
+Counts lines. number of unique words.
